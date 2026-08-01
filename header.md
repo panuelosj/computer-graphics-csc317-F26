@@ -1,4 +1,4 @@
-title: Computer Graphics csc418
+title: Computer Graphics CSC317 Fall 2026
 
 <link rel="stylesheet" href="github-markdown.css">
 <style>
