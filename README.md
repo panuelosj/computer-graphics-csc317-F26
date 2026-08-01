@@ -17,7 +17,7 @@
 | Instructor     | Prof. [Karan Singh](https://www.dgp.toronto.edu/~karan/) | Jonathan Panuelos |
 | Contact        | <karan@dgp.toronto.edu> | <jonathan.panuelos@mail.utoronto.ca> |
 | Lecture        | Tue 13:00–15:00 MS2170 | Tue 15:00–17:00 MS2172 |
-| Lecture (cont.)| Thu 13:00–14:00 UC140  | Thu 15:00–16:00 BR200 |
+| Tutorial       | Thu 13:00–14:00 UC140  | Thu 15:00–16:00 BR200 |
 | Office Hours   | TBD | TBD |
 
 *_You can attend any office hours that fits your schedule_
@@ -118,25 +118,25 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 Below is the schedule for the course with each row of the table showing the week beginning with Sunday.
 
-- Tuesdays: Lecture (2h)
+- Tuesdays: Lecture days
 - Wednesdays: Quiz release + due dates (online, due the same week)
-- Thursdays: Lecture (1h) — and the three **Tests**
+- Thursdays: Tutorial/Office Hours — and the three **Tests**
 - Fridays: Assignment due dates **(11:59pm)** on Markus.
 
-| Week | Sunday  | Mon              | Tue (Lecture, 2h)               | Wed (Quiz Release+Due) | Thu (Lecture, 1h / Test) | Fri (Assignment Due) |
+| Week | Sunday  | Mon              | Tue (Lectures)                  | Wed (Quiz Release+Due) | Thu (Tutorial/Test)      | Fri (Assignment Due) |
 |------|:--------|------------------|---------------------------------|------------------------|--------------------------|----------------------|
-| 1    | Sep 6   | **Labour Day**   | Introduction + Rasterization    |                        | Introduction + Rasterization | |
-| 2    | Sep 13  |                  | Ray Casting                     | q1 released + due      | Ray Casting              | a1 + oh1             |
-| 3    | Sep 20  |                  | Ray Tracing                     | q2 released + due      | Ray Tracing              |                      |
+| 1    | Sep 6   | **Labour Day**   | Introduction + Rasterization    |                        | Tut 1                    |                      |
+| 2    | Sep 13  |                  | Ray Casting                     | q1 released + due      | Tut 2                    | a1 + oh1             |
+| 3    | Sep 20  |                  | Ray Tracing                     | q2 released + due      | Tut 3                    |                      |
 | 4    | Sep 27  |                  | Ray Tracing                     |                        | **Test 1 (Wk 1–4)**      |                      |
-| 5    | Oct 4   |                  | BVH                             |                        | BVH                      | a2 + oh2             |
-| 6    | Oct 11  | **Thanksgiving** | Meshes                          | q3 released + due      | Meshes                   |                      |
-| 7    | Oct 18  |                  | Shaders                         | q4 released + due      | Shaders                  | a3 + oh3             |
+| 5    | Oct 4   |                  | BVH                             |                        | Tut 4                    | a2 + oh2             |
+| 6    | Oct 11  | **Thanksgiving** | Meshes                          | q3 released + due      | Tut 5                    |                      |
+| 7    | Oct 18  |                  | Shaders                         | q4 released + due      | Tut 6                    | a3 + oh3             |
 | 8    | Oct 25  | **Reading Week** | **Reading Week**                | **Reading Week**       | **Reading Week**         | **Reading Week**     |
 | 9    | Nov 1   |                  | Shaders                         |                        | **Test 2 (BVH–Shaders)** |                      |
-| 10   | Nov 8   |                  | Kinematics                      |                        | Kinematics               | a4 + oh4             |
-| 11   | Nov 15  |                  | Springs (**Drop Day** Tue Nov 17) | q5 released + due    | Springs                  |                      |
-| 12   | Nov 22  |                  | Guest Lecture / New Work        |                        | Guest Lecture / New Work | a5 + oh5             |
+| 10   | Nov 8   |                  | Kinematics                      |                        | Tut 7                    | a4 + oh4             |
+| 11   | Nov 15  |                  | Springs (**Drop Day** Tue Nov 17) | q5 released + due    | Tut 8                    |                      |
+| 12   | Nov 22  |                  | Guest Lecture / New Work        |                        | Tut 9                    | a5 + oh5             |
 | 13   | Nov 29  |                  | Showcase + Current Research     |                        | **Test 3 (Wk 9–11)**     |                      |
 | 14   | Dec 6   |                  | _no class_ — showcase due Tue Dec 8 |                    | _no class_               | a6 + oh6             |
 
@@ -158,7 +158,7 @@ Plus up to **5% extra credit** for the [creative showcase](showcase.md).
 ## Assignments
 
 **Note: All assignments are available immediately. BUT we are only covering one assignment at a time. While  you are welcome to look ahead, future assignments
-have not been debugged and we will not answer questions about them at office hours until we cover them in lecture**
+have not been debugged and we will not answer questions about them at tutorial or office hours until we cover them in lecture**
 
 | Assignment | Topics |
 | ---------- | ------ |
@@ -221,9 +221,9 @@ For purposes of this class, academic dishonesty is defined as:
 - Do NOT broadcast pieces of your code or answers to written assignments to the
   github issues. Specific or general implementation questions whose answer
   would benefit all students in the class are appropriate. However: the bulletin
-  board is NO replacement for lecture and office hours. Those should be the main
-  forum for asking/answering questions of this sort.
+  board is NO replacement for the tutorial hour. That should be the main forum
+  for asking/answering questions of this sort.
 - Questions of the form "I cannot find the problem with my code; here it is, can
   you help me" are unlikely to be replied, so don't count on it. If you have a
-  question with code, take it to the TA office hours.
+  question with code, take it to the TA office hours or to the tutorials.
 
