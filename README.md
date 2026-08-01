@@ -118,27 +118,27 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 Below is the schedule for the course with each row of the table showing the week beginning with Sunday.
 
+- Mondays: Quiz release (online, on Quercus)
 - Tuesdays: Lecture days
-- Wednesdays: Quiz release + due dates (online, due the same week)
 - Thursdays: Tutorial/Office Hours — and the three **Tests**
-- Fridays: Assignment due dates **(11:59pm)** on Markus.
+- Fridays: Assignment and quiz due dates **(11:59pm)**
 
-| Week | Sunday  | Mon              | Tue (Lectures)                  | Wed (Quiz Release+Due) | Thu (Tutorial/Test)      | Fri (Assignment Due) |
-|------|:--------|------------------|---------------------------------|------------------------|--------------------------|----------------------|
-| 1    | Sep 6   | **Labour Day**   | Introduction + Rasterization    |                        | Tut 1                    |                      |
-| 2    | Sep 13  |                  | Ray Casting                     | q1 released + due      | Tut 2                    | a1 + oh1             |
-| 3    | Sep 20  |                  | Ray Tracing                     | q2 released + due      | Tut 3                    |                      |
-| 4    | Sep 27  |                  | Ray Tracing                     |                        | **Test 1 (Wk 1–4)**      |                      |
-| 5    | Oct 4   |                  | BVH                             |                        | Tut 4                    | a2 + oh2             |
-| 6    | Oct 11  | **Thanksgiving** | Meshes                          | q3 released + due      | Tut 5                    |                      |
-| 7    | Oct 18  |                  | Shaders                         | q4 released + due      | Tut 6                    | a3 + oh3             |
-| 8    | Oct 25  | **Reading Week** | **Reading Week**                | **Reading Week**       | **Reading Week**         | **Reading Week**     |
-| 9    | Nov 1   |                  | Shaders                         |                        | **Test 2 (BVH–Shaders)** |                      |
-| 10   | Nov 8   |                  | Kinematics                      |                        | Tut 7                    | a4 + oh4             |
-| 11   | Nov 15  |                  | Springs (**Drop Day** Tue Nov 17) | q5 released + due    | Tut 8                    |                      |
-| 12   | Nov 22  |                  | Guest Lecture / New Work        |                        | Tut 9                    | a5 + oh5             |
-| 13   | Nov 29  |                  | Showcase + Current Research     |                        | **Test 3 (Wk 9–11)**     |                      |
-| 14   | Dec 6   |                  | _no class_ — showcase due Tue Dec 8 |                    | _no class_               | a6 + oh6             |
+| Week | Sunday  | Mon (Quiz Release)              | Tue (Lectures)                  | Thu (Tutorial/Test)      | Fri (Assignment + Quiz Due) |
+|------|:--------|---------------------------------|---------------------------------|--------------------------|-----------------------------|
+| 1    | Sep 6   | **Labour Day**                  | Introduction + Rasterization    | Tut 1                    |                             |
+| 2    | Sep 13  | q1 released                     | Ray Casting                     | Tut 2                    | a1 + q1 due                 |
+| 3    | Sep 20  | q2 released                     | Ray Tracing                     | Tut 3                    | q2 due                      |
+| 4    | Sep 27  |                                 | Ray Tracing                     | **Test 1 (Wk 1–4)**      |                             |
+| 5    | Oct 4   |                                 | BVH                             | Tut 4                    | a2                          |
+| 6    | Oct 11  | **Thanksgiving** · q3 released  | Meshes                          | Tut 5                    | q3 due                      |
+| 7    | Oct 18  | q4 released                     | Shaders                         | Tut 6                    | a3 + q4 due                 |
+| 8    | Oct 25  | **Reading Week**                | **Reading Week**                | **Reading Week**         | **Reading Week**            |
+| 9    | Nov 1   |                                 | Shaders                         | **Test 2 (BVH–Shaders)** |                             |
+| 10   | Nov 8   |                                 | Kinematics                      | Tut 7                    | a4                          |
+| 11   | Nov 15  | q5 released                     | Springs (**Drop Day** Tue Nov 17) | Tut 8                  | q5 due                      |
+| 12   | Nov 22  |                                 | Guest Lecture / New Work        | Tut 9                    | a5                          |
+| 13   | Nov 29  |                                 | Showcase + Current Research     | **Test 3 (Wk 9–11)**     |                             |
+| 14   | Dec 6   |                                 | _no class_ — showcase due Tue Dec 8 | _no class_           | a6                          |
 
 You can find a series of short videos cut up by lectures and topics voicing over the lecture slides [here](https://drive.google.com/drive/folders/1cWDOSB-DHepfBlj_vdDsf9mU9sLP8sem?usp=sharing).
 
@@ -183,7 +183,7 @@ For example, say you have 8 grace tokens.  If a1 is due on Friday 11:59pm and yo
 
 ## Quizzes
 
-There will be 5 online quizzes available through Quercus, worth 2% each. Each quiz goes live on the Wednesday shown in the schedule above, after the respective topics have been covered in class, and is **due that same week**.
+There will be 5 online quizzes available through Quercus, worth 2% each. Each quiz is released on **Monday** of the week shown in the schedule above, after the respective topics have been covered in class, and is due that **Friday at 11:59pm** — a five-day window.
 
 You will only have 1 attempt to complete the quiz.
 
