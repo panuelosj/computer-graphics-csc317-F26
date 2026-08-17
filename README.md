@@ -121,24 +121,24 @@ Below is the schedule for the course with each row of the table showing the week
 - Mondays: Quiz release (online, on Quercus)
 - Tuesdays: Lecture days
 - Thursdays: Tutorial/Office Hours — and the three **Tests**
-- Fridays: Assignment and quiz due dates **(11:59pm)**
+- Fridays: Assignment and quiz due dates **(11:59pm)**, and the release of the next assignment
 
-| Week | Sunday  | Mon (Quiz Release)              | Tue (Lectures)                  | Thu (Tutorial/Test)      | Fri (Assignment + Quiz Due) |
-|------|:--------|---------------------------------|---------------------------------|--------------------------|-----------------------------|
-| 1    | Sep 6   | **Labour Day**                  | Introduction + Rasterization    | Tut 1                    |                             |
-| 2    | Sep 13  | q1 released                     | Ray Casting                     | Tut 2                    | a1 + q1 due                 |
-| 3    | Sep 20  | q2 released                     | Ray Tracing                     | Tut 3                    | q2 due                      |
-| 4    | Sep 27  |                                 | Ray Tracing                     | **Test 1 (Wk 1–4)**      |                             |
-| 5    | Oct 4   |                                 | BVH                             | Tut 4                    | a2                          |
-| 6    | Oct 11  | **Thanksgiving** · q3 released  | Meshes                          | Tut 5                    | q3 due                      |
-| 7    | Oct 18  | q4 released                     | Shaders                         | Tut 6                    | a3 + q4 due                 |
-| 8    | Oct 25  | **Reading Week**                | **Reading Week**                | **Reading Week**         | **Reading Week**            |
-| 9    | Nov 1   |                                 | Shaders                         | **Test 2 (BVH–Shaders)** |                             |
-| 10   | Nov 8   |                                 | Kinematics                      | Tut 7                    | a4                          |
-| 11   | Nov 15  | q5 released                     | Springs (**Drop Day** Tue Nov 17) | Tut 8                  | q5 due                      |
-| 12   | Nov 22  |                                 | Guest Lecture / New Work        | Tut 9                    | a5                          |
-| 13   | Nov 29  |                                 | Showcase + Current Research     | **Test 3 (Wk 9–11)**     |                             |
-| 14   | Dec 6   |                                 | _no class_ — showcase due Tue Dec 8 | _no class_           | a6                          |
+| Week | Sunday  | Mon (Quiz Release)              | Tue (Lectures)                  | Thu (Tutorial/Test)       | Fri (Due + Release)         |
+|------|:--------|---------------------------------|---------------------------------|---------------------------|-----------------------------|
+| 1    | Sep 6   | **Labour Day**                  | Introduction + Rasterization    | Tut 1                     | a1 + a2 released            |
+| 2    | Sep 13  | q1 released                     | Ray Casting + Tracing           | Tut 2                     | q1 due                      |
+| 3    | Sep 20  | q2 released                     | Ray Casting + Tracing           | Tut 3                     | a1 + q2 due · a3 released   |
+| 4    | Sep 27  |                                 | Ray Casting + Tracing           | **Test 1 (Rasterization–Ray Tracing)** |                |
+| 5    | Oct 4   |                                 | BVH                             | Tut 4                     | a2 due · a4 released        |
+| 6    | Oct 11  | **Thanksgiving** · q3 released  | Meshes + Shaders + Animation    | Tut 5                     | q3 due                      |
+| 7    | Oct 18  | q4 released                     | Meshes + Shaders + Animation    | Tut 6                     | a3 + q4 due · a5 released   |
+| 8    | Oct 25  | **Reading Week**                | **Reading Week**                | **Reading Week**          | **Reading Week**            |
+| 9    | Nov 1   |                                 | Meshes + Shaders + Animation    | **Test 2 (BVH–Shaders)**  |                             |
+| 10   | Nov 8   |                                 | Guest Lecture / New Work        | Tut 7                     | a4 due · a6 released        |
+| 11   | Nov 15  | q5 released                     | Kinematics (**Drop Day** Tue Nov 17) | Tut 8                | q5 due                      |
+| 12   | Nov 22  |                                 | Springs                         | Tut 9                     | a5 due                      |
+| 13   | Nov 29  |                                 | Current Research                | **Test 3 (Kinematics–Springs)** |                       |
+| 14   | Dec 6   |                                 | _no class_                      | _no class_                | a6 due                      |
 
 You can find a series of short videos cut up by lectures and topics voicing over the lecture slides [here](https://drive.google.com/drive/folders/1cWDOSB-DHepfBlj_vdDsf9mU9sLP8sem?usp=sharing).
 
@@ -149,16 +149,24 @@ You can find a series of short videos cut up by lectures and topics voicing over
 |5 | Assignment 1 — Raster Images
 |40| Assignments 2–6 (8% each)
 |10| 5 Quizzes (Online, 2% each)
-|15| Test 1 (Weeks 1–4: Rasterization, Ray Casting, Ray Tracing)
-|15| Test 2 (Weeks 5–8: BVH, Meshes, Shaders)
-|15| Test 3 (Weeks 9–11: Kinematics, Mass-Springs)
+|15| Test 1 (Rasterization–Ray Tracing)
+|15| Test 2 (BVH–Shaders)
+|15| Test 3 (Kinematics–Springs)
 
-Plus up to **5% extra credit** for the [creative showcase](showcase.md).
+**Creative bonus:** each of Assignments 2–6 carries a **1% bonus** awarded for
+outstanding scenes — renders, meshes, animations, or simulations that go beyond
+what the assignment asks for. Up to **5%** across the term.
 
 ## Assignments
 
-**Note: All assignments are available immediately. BUT we are only covering one assignment at a time. While  you are welcome to look ahead, future assignments
-have not been debugged and we will not answer questions about them at tutorial or office hours until we cover them in lecture**
+**Assignments are released two deadlines ahead.** Assignments 1 and 2 go out
+together in Week 1; from then on, every time an assignment comes due, the next
+one is released. So you always have the current assignment plus the following one
+in hand — see the release dates in the [schedule](#lecture-schedule) above.
+
+**Note: while you are welcome to work ahead, we only cover one assignment at a
+time. We will not answer questions about an assignment at tutorial or office
+hours until we have covered its material in lecture.**
 
 | Assignment | Topics |
 | ---------- | ------ |
@@ -168,7 +176,8 @@ have not been debugged and we will not answer questions about them at tutorial o
 | Assignment 4: Meshes and Shaders | Triangle/quad meshes, normals, Catmull-Clark subdivision, OBJ I/O, then NumPy "software shaders": transforms, Blinn-Phong, procedural noise, bump mapping. |
 | Assignment 5: Kinematics | Skeletal animation: forward kinematics, linear blend skinning, keyframe interpolation, and inverse kinematics by projected gradient descent. |
 | Assignment 6: Mass-Spring Systems | Physically based simulation: the local-global "fast mass-springs" solver, dense and sparse. |
-| [Showcase](showcase.md) | Optional creative piece for up to 5% extra credit. |
+
+Assignments 2–6 each carry a **1% creative bonus** for outstanding scenes.
 
 _Assignment repository links will be posted here once each assignment goes
 live._
