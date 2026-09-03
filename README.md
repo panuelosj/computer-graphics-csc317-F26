@@ -162,25 +162,23 @@ what the assignment asks for. Up to **5%** across the term.
 **Assignments are released two deadlines ahead.** Assignments 1 and 2 go out
 together in Week 1; from then on, every time an assignment comes due, the next
 one is released. So you always have the current assignment plus the following one
-in hand — see the release dates in the [schedule](#lecture-schedule) above.
+in hand. The links to each assignment are at the table below, but note that each
+repo will only be made public when the assignment is released.
 
 **Note: while you are welcome to work ahead, we only cover one assignment at a
 time. We will not answer questions about an assignment at tutorial or office
 hours until we have covered its material in lecture.**
 
-| Assignment | Topics |
-| ---------- | ------ |
-| Assignment 1: Raster Images | Image representation: color, grayscale, mosaics/demosaicing, HSV, compositing. |
-| Assignment 2: Ray Tracing | Ray casting **and** ray tracing: intersections, a perspective camera, Blinn-Phong shading, shadows, mirror reflections. |
-| Assignment 3: Bounding Volume Hierarchy | Spatial acceleration: axis-aligned bounding-box trees for fast ray-mesh, nearest-neighbor, and broad-phase intersection queries. |
-| Assignment 4: Meshes and Shaders | Triangle/quad meshes, normals, Catmull-Clark subdivision, OBJ I/O, then NumPy "software shaders": transforms, Blinn-Phong, procedural noise, bump mapping. |
-| Assignment 5: Kinematics | Skeletal animation: forward kinematics, linear blend skinning, keyframe interpolation, and inverse kinematics by projected gradient descent. |
-| Assignment 6: Mass-Spring Systems | Physically based simulation: the local-global "fast mass-springs" solver, dense and sparse. |
+| Assignment | Topics | Released | Deadline |
+| ---------- | ------ | :------: | :------: |
+| [Assignment 1: Raster Images](https://github.com/panuelosj/computer-graphics-csc317-A1-Raster_Images) | Image representation: color, grayscale, mosaics/demosaicing, HSV, compositing. | Sep 11 | Sep 25 |
+| [Assignment 2: Ray Tracing](https://github.com/panuelosj/computer-graphics-csc317-A2-Ray_Tracing) | Ray casting **and** ray tracing: intersections, a perspective camera, Blinn-Phong shading, shadows, mirror reflections. | Sep 11 | Oct 9 |
+| [Assignment 3: Bounding Volume Hierarchy](https://github.com/panuelosj/computer-graphics-csc317-A3-BVH) | Spatial acceleration: axis-aligned bounding-box trees for fast ray-mesh, nearest-neighbor, and broad-phase intersection queries. | Sep 25 | Oct 23 |
+| [Assignment 4: Meshes and Shaders](https://github.com/panuelosj/computer-graphics-csc317-A4-Meshes_and_Shaders) | Triangle/quad meshes, normals, Catmull-Clark subdivision, OBJ I/O, then NumPy "software shaders": transforms, Blinn-Phong, procedural noise, bump mapping. | Oct 9 | Nov 13 |
+| [Assignment 5: Kinematics](https://github.com/panuelosj/computer-graphics-csc317-A5-Kinematics) | Skeletal animation: forward kinematics, linear blend skinning, keyframe interpolation, and inverse kinematics by projected gradient descent. | Oct 23 | Nov 27 |
+| [Assignment 6: Mass-Spring Systems](https://github.com/panuelosj/computer-graphics-csc317-A6-Mass_Springs) | Physically based simulation: the local-global "fast mass-springs" solver, dense and sparse. | Nov 13 | Dec 11 |
 
 Assignments 2–6 each carry a **1% creative bonus** for outstanding scenes.
-
-_Assignment repository links will be posted here once each assignment goes
-live._
 
 Assignments will be due on their respective Friday due dates at **11:59pm**.
 
