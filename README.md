@@ -18,7 +18,7 @@
 | Contact        | <karan@dgp.toronto.edu> | <jonathan.panuelos@mail.utoronto.ca> |
 | Lecture        | Tue 13:00–15:00 MS2170 | Tue 15:00–17:00 MS2172 |
 | Tutorial       | Thu 13:00–14:00 UC140  | Thu 15:00–16:00 BR200 |
-| Office Hours   | TBD | TBD |
+| Office Hours   | Tue 12:00-13:00 BA5258 | Tue 17:00-18:00 Location TBD |
 
 *_You can attend any office hours that fits your schedule_
 
