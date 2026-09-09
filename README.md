@@ -24,17 +24,12 @@
 
 ## TAs
 
-Karran Pandey
-
-Sophia Yang
-
-Chang Yue
-
-Lulu Wei
-
-Yixin Lok
-
-Vishnu Nittoor
+- Karran Pandey
+- Sophia Yang
+- Chang Yue
+- Lulu Wei
+- Yixin Lok
+- Vishnu Nittoor
 
 <csc317tas@cs.toronto.edu>
 
