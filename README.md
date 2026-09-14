@@ -131,17 +131,17 @@ Below is the schedule for the course with each row of the table showing the week
 | Week | Sunday  | Mon (Quiz Release)              | Tue (Lectures)                  | Thu (Tutorial/Test)       | Fri (Due + Release)         |
 |------|:--------|---------------------------------|---------------------------------|---------------------------|-----------------------------|
 | 1    | Sep 6   | **Labour Day**                  | [Introduction KS](lectures/lecture0.pdf)<br>[Raster Images KS](lectures/lecture1.pdf)<br>[Introduction + Rasterization JP](lectures/lecture1_JP.pdf)    | [Tut 1](tutorials/CSC317%20Tutorial%201%20—%20Raster%20Images.pdf)                     | a1 + a2 released            |
-| 2    | Sep 13  | q1 released                     | Ray Casting + Tracing           | Tut 2                     | q1 due                      |
-| 3    | Sep 20  | q2 released                     | Ray Casting + Tracing           | Tut 3                     | a1 + q2 due · a3 released   |
-| 4    | Sep 27  |                                 | Ray Casting + Tracing           | **Test 1 (Rasterization–Ray Tracing)** |                |
-| 5    | Oct 4   |                                 | BVH                             | Tut 4                     | a2 due · a4 released        |
-| 6    | Oct 11  | **Thanksgiving** · q3 released  | Meshes + Shaders + Animation    | Tut 5                     | q3 due                      |
-| 7    | Oct 18  | q4 released                     | Meshes + Shaders + Animation    | Tut 6                     | a3 + q4 due · a5 released   |
+| 2    | Sep 13  | q1 released                     | Ray Casting [KS](lectures/lecture2.pdf) + Tracing [KS](lectures/lecture3.pdf)          | Tut 2                     | q1 due                      |
+| 3    | Sep 20  | q2 released                     | Ray Casting [KS](lectures/lecture2.pdf) + Tracing [KS](lectures/lecture3.pdf)         | Tut 3                     | a1 + q2 due · a3 released   |
+| 4    | Sep 27  |                                 | Ray Casting [KS](lectures/lecture2.pdf) + Tracing [KS](lectures/lecture3.pdf)         | **Test 1 (Rasterization–Ray Tracing)** |                |
+| 5    | Oct 4   |                                 | BVH [KS](lectures/lecture4.pdf)                             | Tut 4                     | a2 due · a4 released        |
+| 6    | Oct 11  | **Thanksgiving** · q3 released  | Meshes [KS](lectures/lecture5.pdf) + Shaders + Animation [KS](lectures/lecture6.pdf)    | Tut 5                     | q3 due                      |
+| 7    | Oct 18  | q4 released                     | Meshes [KS](lectures/lecture5.pdf) + Shaders + Animation [KS](lectures/lecture6.pdf)    | Tut 6                     | a3 + q4 due · a5 released   |
 | 8    | Oct 25  | **Reading Week**                | **Reading Week**                | **Reading Week**          | **Reading Week**            |
-| 9    | Nov 1   |                                 | Meshes + Shaders + Animation    | **Test 2 (BVH–Shaders)**  |                             |
+| 9    | Nov 1   |                                 | Meshes [KS](lectures/lecture5.pdf) + Shaders + Animation [KS](lectures/lecture6.pdf)    | **Test 2 (BVH–Shaders)**  |                             |
 | 10   | Nov 8   |                                 | Guest Lecture / New Work        | Tut 7                     | a4 due · a6 released        |
-| 11   | Nov 15  | q5 released                     | Kinematics (**Drop Day** Tue Nov 17) | Tut 8                | q5 due                      |
-| 12   | Nov 22  |                                 | Springs                         | Tut 9                     | a5 due                      |
+| 11   | Nov 15  | q5 released                     | Kinematics [KS](lectures/lecture7.pdf)<br>(**Drop Day** Tue Nov 17) | Tut 8                | q5 due                      |
+| 12   | Nov 22  |                                 | Springs  [KS](lectures/lecture8.pdf)                       | Tut 9                     | a5 due                      | 
 | 13   | Nov 29  |                                 | Current Research                | **Test 3 (Kinematics–Springs)** |                       |
 | 14   | Dec 6   |                                 | _no class_                      | _no class_                | a6 due                      |
 
